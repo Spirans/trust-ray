@@ -9,7 +9,8 @@
             "KEY": "",
             "KEYID": "",
             "TEAMID": "",
-            "BUNDLE": ""
+            "BUNDLE": "",
+            "PRODUCTION": false
         }
     },
     "PARSER": {
